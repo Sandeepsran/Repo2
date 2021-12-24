@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 4AFC-33B4
+
+ Directory of C:\Users\sande\OneDrive\Desktop\My Project
+
+2021-12-24  04:55 PM    <DIR>          .
+2021-12-24  03:50 PM    <DIR>          ..
+2021-12-24  04:22 PM               375 test.txt
+2021-12-24  04:25 PM               413 test3.txt
+2021-12-24  04:55 PM                 0 test4.txt
+               3 File(s)            788 bytes
+               2 Dir(s)  427,214,610,432 bytes free
